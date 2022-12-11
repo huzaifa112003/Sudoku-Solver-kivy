@@ -1,6 +1,6 @@
 # Sudoku-Solver-kivy
 automatic interactive sudoku solver using kivy 
-- Download all the files from the folder "Sudoku Solver-kivy".
+- Download all the files from the folder "Sudoku Solver".
 - Download and Install Anaconda Navigator from its official website.
 - Open Anaconda and go to Enviornments.
 - In Enviornments create a new enviornment and from the packages install a package named "conda".
